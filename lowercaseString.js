@@ -6,7 +6,7 @@
  * ==============================================================
  */
 
-const solution = (mystring) => mystring.toLowerCase()();
+const solution = (mystring) => mystring.toLowerCase();
 
 console.log(solution("ABC"));
 
