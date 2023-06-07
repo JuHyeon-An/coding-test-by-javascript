@@ -17,6 +17,3 @@ function solution(my_string, target) {
 }
 
 console.log(solution("banana","ana"));
-
-
-
