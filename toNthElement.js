@@ -16,6 +16,4 @@ function solution(num_list, n) {
     return answer;
 }
 
-
-
 console.log(solution([5, 2, 1, 7, 5], 3));
